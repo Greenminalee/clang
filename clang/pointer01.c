@@ -10,7 +10,7 @@
 #include <stdlib.h>
 
 int main(){
-    int i;
+    int i; //test
     int *a;
     int na;
     
